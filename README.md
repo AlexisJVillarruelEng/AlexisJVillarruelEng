@@ -77,7 +77,7 @@ Permite gestionar trabajadores, ítems, ubicaciones y movimientos de materiales,
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>plicación móvil para la digitalización del parte diario de maquinarias de la empresa PROMCOSER.</p>
+<p>Aplicación móvil para la digitalización del parte diario de maquinarias de la empresa PROMCOSER.</p>
 </div>
                                                                                       
 </td>
