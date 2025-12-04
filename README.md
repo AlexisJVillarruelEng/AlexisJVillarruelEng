@@ -3,7 +3,7 @@
 <h2 width="30px">&nbspAbout me</h2>
 </span>
 
-Soy desarrollador iOS en constante desarrollo profesional, apasionado por crear aplicaciones móviles que resuelvan problemáticas reales en personas y empresas.
+Soy desarrollador movil en constante desarrollo profesional, apasionado por crear aplicaciones móviles que resuelvan problemáticas reales en personas y empresas.
 Me especializo en el uso de Swift y SwiftUI, aplicando arquitectura MVVM, principios de clean code y un enfoque en experiencias de usuario intuitivas y de alto rendimiento.
 Busco contribuir en proyectos que combinen innovación, diseño y eficiencia tecnológica, desarrollando soluciones que optimicen procesos empresariales y generen impacto positivo en los usuarios.
 
