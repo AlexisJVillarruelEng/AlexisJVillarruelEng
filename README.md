@@ -69,12 +69,12 @@ Permite gestionar trabajadores, ítems, ubicaciones y movimientos de materiales,
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">LentesSordos | IoT & Embedded ML</h3>
+<h3 align="center">Gadget para personas sin capacidad auditiva | IoT & Embedded ML</h3>
 <div align="center">
 <a href="https://github.com/alexisjhair14/alexisjhair14-project-1" target="_blank">
-  <img src="https://raw.githubusercontent.com/alexisjhair14/alexisjhair14-project-1/main/assets/lentessordos_hardware.jpg"
+  <img src="https://i.imgur.com/iexab8B.png"
        width="200"
-       alt="LentesSordos IoT Hardware">
+       alt="Gadget para personas sin capacidad auditiva IoT Hardware">
 </a>
 
 <p>
