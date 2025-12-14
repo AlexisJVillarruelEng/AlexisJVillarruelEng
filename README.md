@@ -69,17 +69,29 @@ Permite gestionar trabajadores, ítems, ubicaciones y movimientos de materiales,
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Promcose Android APP </h3>
+<h3 align="center">LentesSordos | IoT & Embedded ML</h3>
 <div align="center">
-<a href="https://github.com/nomad7wod/PromcoserMobileApp" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E2DAQFr9UChlxk97A/profile-treasury-image-shrink_1920_1920/B4EZcpHkneG4Ag-/0/1748741540820?e=1761530400&v=beta&t=gUndQSUm_z8QBYM05rOH1-iUL2Cj82vxZX-uPGTbwho" width="200" alt="Inventario Gpromec version IOS"></a>
+<a href="https://github.com/alexisjhair14/alexisjhair14-project-1" target="_blank">
+  <img src="https://raw.githubusercontent.com/alexisjhair14/alexisjhair14-project-1/main/assets/lentessordos_hardware.jpg"
+       width="200"
+       alt="LentesSordos IoT Hardware">
+</a>
+
 <p>
-<a href="https://github.com/nomad7wod/PromcoserMobileApp" target="_blank">
+<a href="https://github.com/alexisjhair14/alexisjhair14-project-1" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación móvil para la digitalización del parte diario de maquinarias de la empresa PROMCOSER.</p>
+
+<p>
+Proyecto de <b>lentes inteligentes IoT</b> desarrollado en colaboración con un equipo universitario, orientado a la
+detección y clasificación de sonidos ambientales mediante <b>Machine Learning embebido</b>.
+El sistema utiliza un <b>ESP32</b>, micrófonos I2S (INMP441) y un modelo entrenado en <b>Edge Impulse</b> (UrbanSound8K)
+para identificar sonidos de riesgo como sirenas y claxon, determinando además la dirección del sonido.
+Incluye retroalimentación háptica direccional, LEDs de estado y comunicación BLE con una aplicación móvil.
+</p>
+
 </div>
-                                                                                      
 </td>
 
 <td width="50%">
