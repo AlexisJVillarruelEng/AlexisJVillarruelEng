@@ -37,10 +37,10 @@ Busco contribuir en proyectos que combinen innovación, diseño y eficiencia tec
 <td width="50%">
 <h3 align="center">Inventario | IOS </h3>
 <div align="center">
-<a href="https://github.com/AlexisJVillarruelEng/InventarioGpromecIOS" target="_blank"><img src="https://private-user-images.githubusercontent.com/164811242/502650107-7e3adac1-78ec-40e8-b8d2-88208b2f972a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA3MTc1NzAsIm5iZiI6MTc2MDcxNzI3MCwicGF0aCI6Ii8xNjQ4MTEyNDIvNTAyNjUwMTA3LTdlM2FkYWMxLTc4ZWMtNDBlOC1iOGQyLTg4MjA4YjJmOTcyYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxN1QxNjA3NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZGY5NWI3NmMwZDEyM2ZmZjNmNWY5MWJmODQ1YTg2NjYzNmYyYzgzNjIxZjA5NWU2YTQ0MThmYTVmMDE3MDhmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VevY6ZhET1XO-AVn0M-xxbyOZWkkaa_1IilhVJKxRQc" width="200" alt="Inventario Gpromec version IOS"></a>
+<a href="https://github.com/AlexisJVillarruelEng/InventarioGpromecIOS" target="_blank"><img src="https://i.imgur.com/va9EdnL.png" width="200" alt="Inventario Gpromec version IOS"></a>
 <p>
 <a href="https://github.com/AlexisJVillarruelEng/InventarioGpromecIOS" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://i.imgur.com/KZxQ1Z8.png">
 </a>
 </p>
 <p>Aplicación móvil nativa desarrollada SwiftUI (iOS) para el control de inventario y operaciones internas de Gpromec.
@@ -57,7 +57,7 @@ Permite gestionar trabajadores, ítems, ubicaciones y movimientos de materiales,
 <br>
 <p>
 <a href="https://github.com/AlexisJVillarruelEng/Web_GP" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://i.imgur.com/KZxQ1Z8.png">
 </a>
 </p>
 </p>Creacion de Intranet con Vue y Quasar para la gestión de matrices IPERC, Trabajadores, Firmas. Conectado a Backend interno por Rest API.</p>
@@ -102,7 +102,7 @@ Incluye retroalimentación háptica direccional, LEDs de estado y comunicación 
 <br>
 <p>
 <a href="https://github.com/AlexisJVillarruelEng/GPROMEC.API" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://i.imgur.com/jnOjDGQ.png">
 </a>
 </p>
 </p>API para el control de matriz IPERC, proyectos, trabajadores y clientes de empresa metal mecánica Gpromec.</p>
