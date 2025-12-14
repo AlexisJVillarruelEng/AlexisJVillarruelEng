@@ -40,7 +40,7 @@ Busco contribuir en proyectos que combinen innovación, diseño y eficiencia tec
 <a href="https://github.com/AlexisJVillarruelEng/InventarioGpromecIOS" target="_blank"><img src="https://i.imgur.com/va9EdnL.png" width="200" alt="Inventario Gpromec version IOS"></a>
 <p>
 <a href="https://github.com/AlexisJVillarruelEng/InventarioGpromecIOS" target="_blank">
-<img src="https://i.imgur.com/KZxQ1Z8.png">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Aplicación móvil nativa desarrollada SwiftUI (iOS) para el control de inventario y operaciones internas de Gpromec.
@@ -53,11 +53,11 @@ Permite gestionar trabajadores, ítems, ubicaciones y movimientos de materiales,
                <br>
 <h3 align="center">Sistema Intranet Gestion Proyctos IPERC</h3>
 <div align="center">                                       
-<a href="https://github.com/AlexisJVillarruelEng/Web_GP" target="_blank"><img src="https://camo.githubusercontent.com/4c49c1aa81a4da4a3a2f003fbde53fd00813029573cc32015f7dd125f039948d/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f44344532444151484450474574304d73382d412f70726f66696c652d74726561737572792d696d6167652d736872696e6b5f3830305f3830302f4234455a637045766f49485941592d2f302f313734383734303739393639363f653d3137363134333638303026763d6265746126743d74416b6c5a58326f656a5a77476c6b6971434b784c707268706f4f7279624a48326e4f427938714e364434" width="400" alt="Web interna Gestion Proyectos"></a>
+<a href="https://github.com/AlexisJVillarruelEng/Web_GP" target="_blank"><img src="https://i.imgur.com/KZxQ1Z8.png" width="400" alt="Web interna Gestion Proyectos"></a>
 <br>
 <p>
 <a href="https://github.com/AlexisJVillarruelEng/Web_GP" target="_blank">
-<img src="https://i.imgur.com/KZxQ1Z8.png">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Creacion de Intranet con Vue y Quasar para la gestión de matrices IPERC, Trabajadores, Firmas. Conectado a Backend interno por Rest API.</p>
@@ -98,11 +98,11 @@ Incluye retroalimentación háptica direccional, LEDs de estado y comunicación 
                <br>
 <h3 align="center">API Gestion de Proyectos</h3>
 <div align="center">                                       
-<a href="https://github.com/AlexisJVillarruelEng/GPROMEC.API" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E2DAQHFxVVKqyFPUw/profile-treasury-image-shrink_800_800/B4EZcpDnnUHAAc-/0/1748740504446?e=1761436800&v=beta&t=nHB-tT8ZrHNFzlAXqVboY4qVcxLIbszabzMPOuo5iYA" width="400" alt="Web interna Gestion Proyectos"></a>
+<a href="https://github.com/AlexisJVillarruelEng/GPROMEC.API" target="_blank"><img src="https://i.imgur.com/jnOjDGQ.png" width="400" alt="Web interna Gestion Proyectos"></a>
 <br>
 <p>
 <a href="https://github.com/AlexisJVillarruelEng/GPROMEC.API" target="_blank">
-<img src="https://i.imgur.com/jnOjDGQ.png">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>API para el control de matriz IPERC, proyectos, trabajadores y clientes de empresa metal mecánica Gpromec.</p>
