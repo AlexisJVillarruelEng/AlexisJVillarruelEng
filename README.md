@@ -32,6 +32,27 @@ Busco contribuir en proyectos que combinen innovación, diseño y eficiencia tec
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 ## *Proyectos*
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">App FLAVO | Android </h3>
+<div align="center">
+<a href="https://github.com/AlexisJVillarruelEng/FotorecetaAndroid" target="_blank"><img src="https://i.imgur.com/jRmfhVZ.png" width="200" alt="Flavo App Android"></a>
+<p>
+<a href="https://github.com/AlexisJVillarruelEng/FotorecetaAndroid" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Aplicación móvil nativa desarrollada Android que consume API de recetas para dar recetas aleatorias, búsqueda de recetas y permite guardar las recetas favoritas en local. App construida con clean Architecture y Despliegue continuo CI / CD mediante Github Actions el cual tiene la función de empezar a lanzar test unitarios y comprobar compilacion de la App .</p>
+</div>                                                                                      
+</td>
+
+
+
+
+
+
 <table>
 <tr>
 <td width="50%">
@@ -45,12 +66,12 @@ Busco contribuir en proyectos que combinen innovación, diseño y eficiencia tec
 </p>
 <p>Aplicación móvil nativa desarrollada SwiftUI (iOS) para el control de inventario y operaciones internas de Gpromec.
 Permite gestionar trabajadores, ítems, ubicaciones y movimientos de materiales, manteniendo trazabilidad y control en tiempo real con conexión a Supabase (PostgreSQL + API REST).</p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>
 
+
 <td width="50%">
-               <br>
+<br>
 <h3 align="center">Sistema Intranet Gestion Proyctos IPERC</h3>
 <div align="center">                                       
 <a href="https://github.com/AlexisJVillarruelEng/Web_GP" target="_blank"><img src="https://i.imgur.com/KZxQ1Z8.png" width="400" alt="Web interna Gestion Proyectos"></a>
