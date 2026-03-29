@@ -3,9 +3,9 @@
 <h2 width="30px">&nbspAbout me</h2>
 </span>
 
-Soy desarrollador movil en constante desarrollo profesional, apasionado por crear aplicaciones móviles que resuelvan problemáticas reales en personas y empresas.
-Me especializo en el uso de Swift y SwiftUI, aplicando arquitectura MVVM, principios de clean code y un enfoque en experiencias de usuario intuitivas y de alto rendimiento.
-Busco contribuir en proyectos que combinen innovación, diseño y eficiencia tecnológica, desarrollando soluciones que optimicen procesos empresariales y generen impacto positivo en los usuarios.
+Soy desarrollador de software enfocado en la creación de soluciones tecnológicas que resuelven problemas reales en personas y organizaciones. Me motiva entender a profundidad los desafíos del negocio y transformarlos en productos digitales eficientes, escalables y centrados en el usuario.
+Trabajo bajo principios de diseño limpio y arquitecturas sólidas, priorizando la calidad, el rendimiento y la mantenibilidad. Tengo un enfoque orientado a resultados, donde la tecnología es un medio para optimizar procesos, mejorar la toma de decisiones y generar valor tangible.
+Me interesa participar en proyectos que integren innovación, automatización e inteligencia artificial, aprovechando herramientas modernas para construir soluciones que impacten de manera positiva tanto en la operación de las empresas como en la experiencia de sus usuarios.
 
 </span>
 
